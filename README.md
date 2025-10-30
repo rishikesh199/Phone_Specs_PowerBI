@@ -72,6 +72,6 @@ To provide an interactive tool that:
 - **Marketing Strategy**: Identify popular features and price points.
 
 ---
-
 ## 🖼 Screenshots / Demos
-![Phone Specs Dashboard](https://raw.githubusercontent.com/rishikesh199/Phone_Specs/main/Phone_Specs.png).
+
+![Phone Specs Dashboard](https://raw.githubusercontent.com/rishikesh199/Phone_Specs_PowerBI/main/Phone_Specs.png)
