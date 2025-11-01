@@ -2,6 +2,10 @@
 
 An interactive Power BI dashboard designed to showcase and compare smartphone specifications across multiple brands and models. It provides detailed insights into hardware, storage, display, battery, and pricing with dynamic visuals and slicers.
 
+👉 **Click below to view the Smartphone Dashboard:**
+
+[![View Smartphone Report](https://img.shields.io/badge/Power%20BI-Open%20Smartphone%20Dashboard-blue)](https://app.powerbi.com/view?r=eyJrIjoiNDA4MGVhODQtNjdlZS00Y2E0LThjYjQtMjBkODNmNGZkNzU5IiwidCI6ImM2MDAxOTk3LWQ4MzEtNDY3Zi05NDZhLThhZWU1ZDc0NmQ1NCJ9)
+
 ---
 
 ## 📝 Short Description / Purpose
